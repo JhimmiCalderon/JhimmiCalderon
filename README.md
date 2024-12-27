@@ -1,5 +1,5 @@
- # 👋 Hi, I’m Jhimmi Calderon
- ### Full-stack developer looking for exciting challenges and new projects.
+ #  ![https://github.com/JhimmiCalderon](./Jam.jpeg)👋 Hi, I’m Jhimmi Calderon
+ ### Full-stack developer.
 
  ![https://github.com/JhimmiCalderon](./github_profile.jpeg)
  
