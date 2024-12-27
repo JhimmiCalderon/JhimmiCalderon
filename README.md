@@ -2,12 +2,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1ad890&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;I'm+a+Full-stack+developer.;Focused+on+continuous+learning+and+growing+as+a+developer.)](https://git.io/typing-svg)
 
 # About Me:
+Hi there! I'm a passionate Full-Stack Developer 💻 committed to continuous learning 📚 and growth 🌱. I specialize in building robust web applications ⚙️ and enjoy tackling new challenges 💪.
 
-Hi there! I'm a passionate Full-Stack Developer with a deep commitment to continuous learning and growth. I specialize in building robust and efficient web applications, always eager to take on new challenges that help me grow as a developer.
+I thrive in collaborative teams 🤝, solving complex problems 🔍, and creating scalable apps 📈. Familiar with Agile methodologies ⚡, I focus on clean, efficient, and maintainable code 🧹.
 
-I enjoy working in collaborative teams, solving complex problems, and building scalable applications. I'm familiar with Agile methodologies and always strive to follow best practices for clean, efficient, and maintainable code.
-
-I’m constantly refining my skills in both front-end and back-end development, with a strong focus on delivering high-quality, performant software.
+Constantly refining my skills in front-end 🎨 and back-end 🖥️ development, I prioritize delivering high-quality ✅, performant software 🚀.
 
 # 💻 Tech Stack:
 ### Lenguajes:
