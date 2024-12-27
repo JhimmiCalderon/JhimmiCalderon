@@ -1,5 +1,5 @@
 # Hi , I'm Jhimmi Calderon 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1ad890&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;I'm+a+Full-stack+developer.;Focused+on+continuous+learning+and+growing+as+a+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1ad890&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;I'm+a+Full-stack+developer.)](https://git.io/typing-svg)
 
 # About Me:
 Hi there! I'm a passionate Full-Stack Developer 💻 committed to continuous learning 📚 and growth 🌱. I specialize in building robust web applications ⚙️ and enjoy tackling new challenges 💪.
