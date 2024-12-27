@@ -1,7 +1,7 @@
  # 👋 Hi, I’m Jhimmi Calderon
  ### Full-stack developer looking for exciting challenges and new projects.
 
- ![https://github.com/JhimmiCalderon](./github_profile.png)
+ ![https://github.com/JhimmiCalderon](./github_profile.jpeg)
  
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
