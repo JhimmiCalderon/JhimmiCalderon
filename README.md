@@ -1,4 +1,4 @@
- # <img src="https://github.com/JhimmiCalderon/JhimmiCalderon/blob/main/Jam.png?raw=true" width="50" /> Hi, I’m Jhimmi Calderon 👋
+ # Hi, I’m Jhimmi Calderon 👋
  ### Full-stack developer.
 
 <img src="https://github.com/JhimmiCalderon/JhimmiCalderon/blob/main/github_profile.jpeg?raw=true" width="100%" />
