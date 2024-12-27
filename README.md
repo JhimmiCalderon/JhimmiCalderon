@@ -1,4 +1,5 @@
- # ![https://JhimmiCalderon.com](https://github.com/JhimmiCalderon/JhimmiCalderon/blob/main/Jam.png)👋 Hi, I’m Jhimmi Calderon
+ # <img src="https://github.com/JhimmiCalderon/JhimmiCalderon/blob/main/Jam.png?raw=true" alt="https://JhimmiCalderon.com" width="200" />
+👋 Hi, I’m Jhimmi Calderon
  ### Full-stack developer.
 
  ![https://github.com/JhimmiCalderon](./github_profile.jpeg)
