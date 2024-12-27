@@ -2,7 +2,7 @@
   raw=true"alt="https://JhimmiCalderon.com"width="50" /> Hi, I’m Jhimmi Calderon 👋
  ### Full-stack developer.
 
- <img src="https://github.com/JhimmiCalderon/JhimmiCalderon/blob/main/github_profile.jpeg?raw=true" alt="Mi imagen de perfil" width="500" />
+![https://github.com/JhimmiCalderon](./github_profile.jpeg)
 
 
  
